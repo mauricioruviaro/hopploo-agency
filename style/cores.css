@@ -1,0 +1,23 @@
+/* branco */
+.f-branco { color: #FFFFFF; }
+.bg-branco { background-color: #FFFFFF; }
+
+/* cinza */
+.f-cinza { color: #666666; }
+.bg-cinza { background-color: #666666; }
+
+/* cinza claro */
+.f-cinza-claro { color: #E5E5E5; }
+.bg-cinza-claro { background-color: #E5E5E5; }
+
+/* preto */
+.f-preto { color: #000000; }
+.bg-preto { background-color: #000000; }
+ 
+/* verde */
+.f-verde-claro { color: #00DD42; }
+.bg-verde-claro { background-color: #00DD42; }
+
+/* roxo */
+.f-roxo { color: #A550F7; }
+.bg-roxo { background-color: #A550F7; }
